@@ -5,21 +5,21 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6281211980447'] 
-global.mods = ['6281211980447'] 
-global.prems = ['6281211980447'] 
+global.owner = ['6285862754807'] 
+global.mods = ['6285862754807'] 
+global.prems = ['6285862754807'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Faan'
-global.numberowner = '6281211980447'
-global.instagram = 'https://instagram.com/ifanadli_'
-global.github = 'https://github.com/GempyTon'
-global.dana = '081211980447'
-global.pulsa = '081211980447'
-global.gopay = '081211980447'
+global.nameowner = 'Nopan'
+global.numberowner = '6285862754807'
+global.instagram = '-'
+global.github = 'https://github.com/XYZBOTZ'
+global.dana = '085862754807'
+global.pulsa = '085862754807'
+global.gopay = '085862754807'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'FANDAH||BOT'
+global.namebot = 'Xyz||Md'
 global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
 global.web = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
@@ -30,10 +30,10 @@ global.fotonya1 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //gant
 global.fotonya2 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻FANDAH||BOT'
+global.wm = '↻Xyz||Md'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Faan×፝֟͜×'
-global.wm3 = 'ᯤ FAAN'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Nopan×፝֟͜×'
+global.wm3 = 'ᯤ XYZ-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg'
@@ -44,7 +44,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = 'FANDAH-BOT✵'
+global.author = 'Xyz-Md✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
